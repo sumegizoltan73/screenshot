@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options>
+  <Destination>F:\munka</Destination>
+  <Interval>5000</Interval>
+  <FileFormat>jpeg</FileFormat>
+  <IsSubfolderEnabled>true</IsSubfolderEnabled>
+</Options>
